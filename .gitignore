@@ -1,0 +1,9 @@
+node_modules
+
+.idea/
+.idea
+*.iml
+out
+gen
+
+echo '.idea' >> .gitignore
